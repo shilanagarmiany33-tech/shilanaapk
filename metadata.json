@@ -1,0 +1,8 @@
+{
+  "name": "Remix شیکەرەوەی ڕاچێتە",
+  "description": "ئەپی شیکەرەوە و ئەرشیفی ڕاچێتەی پزیشکی بە ژیری دەستکردی Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
